@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: "Work Sans", sans-serif;
+    display: block;
+    text-align: center;
+    background-color:paleturquoise;
+  }
+
+#buttonGroup {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+  
+
+ul {
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right:auto;
+    width: 70%;
+    background-color:peachpuff;
+    border: 1px solid black;
+    padding:50px;
+    text-align: left;
+    font-size: 30px;
+    font-family: inherit;
+}
+
+/* Create a CSS class for the task list item with a border, a bold text and a bigger font size Style every button of the page to be bigger */
